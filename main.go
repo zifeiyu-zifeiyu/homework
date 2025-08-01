@@ -1,1 +1,5 @@
 package homework
+
+func main() {
+
+}
